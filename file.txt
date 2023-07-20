@@ -1,0 +1,3 @@
+“Hello word”
+Пока все OK
+RobotComp.ru
