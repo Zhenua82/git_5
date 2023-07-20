@@ -1,3 +1,2 @@
-“Hello word”
-Пока все OK
-RobotComp.ru
+Hello word!
+Пока все OK, RobotComp.ru!
