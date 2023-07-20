@@ -1,2 +1,3 @@
 Hello word!
 Пока все OK, RobotComp.ru!
+Конец работы, осталось слить все в main
